@@ -1,1 +1,34 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+  }
+  #wall #tag-2 {
+    background: url(../images/tag-2.png) repeat;
+    z-index: 6;
+    display: block;
+}
+  
+  #wall .tag-3 {
+        position:relative;
+        top: 0;
+        left: 0;
+        width: 980px;
+        height: 622px;
+    
+  }
+  #wall .tag-4 {
+        position:fixed;
+        top: 0;
+        left: 0;
+        width: 100pxpx;
+        height: 700pxx;
+  }
+  #wall .tag-5 {
+    display: none;
+  }
+  #wall .tag-6 {
+    display: none;
+  }
+  #wall .tag-7 {
+    z-index: 10;
+  }
